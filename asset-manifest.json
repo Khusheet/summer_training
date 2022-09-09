@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/summer_training/static/css/main.8d1c5a9d.css",
+    "main.js": "/summer_training/static/js/main.5531894f.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/summer_training/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/ds.jpg": "/summer_training/static/media/ds.f856f1de37d005a620f5.jpg",
+    "index.html": "/summer_training/index.html",
+    "main.8d1c5a9d.css.map": "/summer_training/static/css/main.8d1c5a9d.css.map",
+    "main.5531894f.js.map": "/summer_training/static/js/main.5531894f.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/summer_training/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d1c5a9d.css",
+    "static/js/main.5531894f.js"
+  ]
+}
